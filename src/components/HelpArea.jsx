@@ -20,6 +20,7 @@ const HELP_ITEMS = [
 ];
 
 function HelpArea() {
+    // comment test
   return (
     <section data-testid="help-area" id="help-area">
       {HELP_ITEMS.map((item) => (
